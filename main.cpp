@@ -8,3 +8,4 @@ public static int main()
 	return 0;
 }
 // add newline
+// different newline
